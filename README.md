@@ -6,7 +6,7 @@ I am Martin, a 21 year old developer from Slovakia
 - Studying CS at Univeristy of California, Santa Cruz
 - Until now I was keeping everything in a secure private repo, so I just started using GitHub as a portfolio
 - Currently working on [BioGenesis](https://www.biogenesistech.com/) → if you are interested reach out to me
-- **Founder** and sole dev/designer of [Calendar Buddy iOS App](https://www.calendarbuddy.app/)
+- **Founder** and developer/designer of [Calendar Buddy iOS App](https://www.calendarbuddy.app/)
 <!--
 ###  Calendar Buddy
 Check out the app I have developed to help people be more productive
@@ -22,7 +22,8 @@ Check out the app I have developed to help people be more productive
 - 🌳 **Environments:** XCode, Jupyter Notebook, PyCharm, Vim, VSCode
 - 📚 **Libraries:** 20+ Swift Libraries, Tensor Flow, Firebase, PyTorch, Numpy, Pandas, MatLib, MatPlotLib...
 - 👾 **Tech Knowledge:** Linux, Ubuntu, Kali Linux, Machine Learning, Web Dev, App Dev, Software Dev
-- 🧠 **General Knowledge:** Microbiology, Neurology, Cancer Biology, Immunology, BioTech, MedTech 
+- 🎨 **Design:** Photoshop, Affinity Designer, WIX
+- 🧠 **Bio Knowledge:** Microbiology, Neurology, Cancer Biology, Immunology, BioTech, MedTech 
 
 ##  Socials
 
