@@ -3,7 +3,7 @@
 I am Martin, a 21 year old developer from Slovakia
 
 - 📍 **CTO** at Wallo
-- Studying CS at Univeristy of California, Santa Cruz
+- Studying Computer Science at Univeristy of California, Santa Cruz
 - Until now I was keeping everything in a secure private repo, so I just started using GitHub as a portfolio
 - Currently working on [BioGenesis](https://www.biogenesistech.com/) → if you are interested reach out to me
 - **Founder** and developer/designer of [Calendar Buddy iOS App](https://www.calendarbuddy.app/)
