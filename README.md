@@ -19,7 +19,7 @@ Check out the app I have developed to help people be more productive
 -->
 ## Skills
 - 🗣 **Languages:** Swift, Python, JS, HTML, CSS, Node.js, Java, C, Bash
-- 🌳 **Environments:** XCode, Jupyter Notebook, PyCharm, Vim, VSCode
+- 🌳 **Environments:** XCode, Jupyter Notebook, PyCharm, Vim, Atom
 - 📚 **Libraries:** 20+ Swift Libraries, Tensor Flow, Firebase, PyTorch, Numpy, Pandas, MatLib, MatPlotLib...
 - 👾 **Tech Knowledge:** Linux, Ubuntu, Kali Linux, Machine Learning, Web Dev, App Dev, Software Dev
 - 🎨 **Design:** Photoshop, Affinity Designer, WIX
