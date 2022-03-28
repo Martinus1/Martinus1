@@ -18,7 +18,7 @@ Check out the app I have developed to help people be more productive
 <a href="https://www.producthunt.com/posts/calendar-buddy?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-calendar&#0045;buddy" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=301732&theme=light" alt="Calendar&#0032;Buddy - Plan&#0032;your&#0032;time&#0032;and&#0032;achieve&#0032;your&#0032;goals | Product Hunt" height="40px" /></a>
 -->
 ## Skills
-- 🗣 **Languages:** Swift, Python, JS, HTML, CSS, Node.js, Java, C, Bash
+- 🗣 **Languages:** Swift, Python, JS, HTML, CSS, C
 - 🌳 **Environments:** XCode, Jupyter Notebook, PyCharm, Vim, Atom
 - 📚 **Libraries:** 20+ Swift Libraries, Tensor Flow, Firebase, PyTorch, Numpy, Pandas, MatLib, MatPlotLib...
 - 👾 **Tech Knowledge:** Linux, Ubuntu, Kali Linux, Machine Learning, Web Dev, App Dev, Software Dev
