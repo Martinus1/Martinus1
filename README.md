@@ -23,7 +23,6 @@ Check out the app I have developed to help people be more productive
 - 📚 **Libraries:** 20+ Swift Libraries, Tensor Flow, Firebase, PyTorch, Numpy, Pandas, MatLib, MatPlotLib...
 - 👾 **Tech Knowledge:** Linux, Ubuntu, Kali Linux, Machine Learning, Web Dev, App Dev, Software Dev
 - 🎨 **Design:** Photoshop, Affinity Designer, WIX
-- 🧠 **Bio Knowledge:** Microbiology, Neurology, Cancer Biology, Immunology, BioTech, MedTech 
 
 ##  Socials
 
