@@ -2,7 +2,6 @@
 
 I am Martin, a 21 year old developer from Slovakia
 
-- 📍 **CTO** at Wallo
 - Studying Computer Science at Univeristy of California, Santa Cruz
 - Until now I was keeping everything in a secure private repo, so I just started using GitHub as a portfolio
 - Currently working on [BioGenesis](https://www.biogenesistech.com/) → if you are interested reach out to me
@@ -19,10 +18,10 @@ Check out the app I have developed to help people be more productive
 -->
 ## Skills
 - 🗣 **Languages:** Swift, Python, JS, HTML, CSS, C
-- 🌳 **Environments:** XCode, Jupyter Notebook, PyCharm, Vim, Atom
-- 📚 **Libraries:** 20+ Swift Libraries, Tensor Flow, Firebase, PyTorch, Numpy, Pandas, MatLib, MatPlotLib...
-- 👾 **Tech Knowledge:** Linux, Ubuntu, Kali Linux, Machine Learning, Web Dev, App Dev, Software Dev
-- 🎨 **Design:** Photoshop, Affinity Designer, WIX
+- 🌳 **Environments:** XCode, Jupyter, VSCode, PyCharm, Vim, Atom
+- 📚 **Libraries:** 20+ Swift Libraries, Tensor Flow, Firebase, Numpy, Pandas, MatLib, MatPlotLib...
+- 👾 **Tech Knowledge:**  ML, Neural Networks,A pp Dev, Web Dev, Software Dev, Linux, Ubuntu, Kali Linux
+- 🎨 **Design:** Photoshop, Affinity Designer, Photoshop, Figma, WIX
 
 ##  Socials
 
