@@ -20,7 +20,7 @@ Check out the app I have developed to help people be more productive
 - 🗣 **Languages:** Swift, Python, JS, HTML, CSS, C
 - 🌳 **Environments:** XCode, Jupyter, VSCode, PyCharm, Vim, Atom
 - 📚 **Libraries:** 20+ Swift Libraries, Tensor Flow, Firebase, Numpy, Pandas, MatLib, MatPlotLib...
-- 👾 **Tech Knowledge:**  ML, Neural Networks,A pp Dev, Web Dev, Software Dev, Linux, Ubuntu, Kali Linux
+- 👾 **Tech Knowledge:**  ML, Neural Networks, App Dev, Web Dev, Software Dev, Linux, Ubuntu, Kali Linux
 - 🎨 **Design:** Photoshop, Affinity Designer, Photoshop, Figma, WIX
 
 ##  Socials
