@@ -4,8 +4,8 @@ I am Martin, a 21 year old developer from Slovakia
 
 - Studying Computer Science at Univeristy of California, Santa Cruz
 - Until now I was keeping everything in a secure private repo, so I just started using GitHub as a portfolio
-- Currently working on [BioGenesis](https://www.biogenesistech.com/) → if you are interested, reach out to me
-- **Founder** and developer/designer of [Calendar Buddy iOS App](https://www.calendarbuddy.app/)
+- Currently working on [BioGenesis](https://www.biogenesistech.com/) → providing people with diagnostic data, followed by a prognosis of action protocols for the development of an early-stage treatment plan using Neural Networks
+- **Founder** and developer/designer of [Calendar Buddy AI iOS App](https://www.calendarbuddy.app/)
 <!--
 ###  Calendar Buddy
 Check out the app I have developed to help people be more productive
