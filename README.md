@@ -19,8 +19,8 @@ Check out the app I have developed to help people be more productive
 ## Skills
 - 🗣 **Languages:** Swift, Python, JS, HTML, CSS, C, Node.js, JAVA, C#, Objective-C
 - 🌳 **Environments:** XCode, Jupyter, VSCode, PyCharm, WebStorm, Vim, Atom, Sublime Text, Brackets, Unity
-- 📚🤖 **ML Development:** Tensor Flow, PyTorch Numpy, Keras, Pandas, MatLib, MatPlotLib
-- 📚📱 **App Development:** UIKit, CocoaPods, CoreData, Firebase, UserNotifications, JTAppleCalendar, EventKit, HealthKit, MapKit, CoreLocation, AVFoundation, AdSupport, FBSDKCoreKit, StoreKit RevenueCat...
+- 📚🤖 **ML Development:** Tensor Flow, PyTorch Numpy, Keras, Pandas, MatLib, MatPlotLib...
+- 📚📱 **App Development:** UIKit, CocoaPods, CoreData, Firebase, UserNotifications, JTAppleCalendar, EventKit, HealthKit, MapKit, CoreLocation, AVFoundation, AdSupport, FBSDKCoreKit, StoreKit, RevenueCat...
 - 👾 **Tech Knowledge:**  ML, Neural Networks, App Dev, Web Dev, Software Dev, Linux, Ubuntu, Kali Linux
 - 🎨 **Design:** Photoshop, Affinity Designer, Photoshop, Figma, WIX
 
