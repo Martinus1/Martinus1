@@ -15,6 +15,8 @@ Check out the app I have developed to help people be more productive
 
 <a href="https://www.producthunt.com/posts/calendar-buddy?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-calendar&#0045;buddy" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=301732&theme=light" alt="Calendar&#0032;Buddy - Plan&#0032;your&#0032;time&#0032;and&#0032;achieve&#0032;your&#0032;goals | Product Hunt" height="40px" /></a>
 -->
+
+<!--
 ## Skills
 - 🗣 **Languages:** Python, Swift, JS, HTML, CSS, C, Objective-C
 - 🌳 **Environments:** VSCode, XCode, Jupyter, PyCharm, WebStorm, Vim, Atom
@@ -22,6 +24,7 @@ Check out the app I have developed to help people be more productive
 - 📚📱 **App Development:** UIKit, CocoaPods, CoreData, Firebase, UserNotifications, JTAppleCalendar, EventKit, HealthKit, MapKit, CoreLocation, AVFoundation, AdSupport, FBSDKCoreKit, StoreKit, RevenueCat...
 - 👾 **Tech Knowledge:**  ML, Neural Networks, App Dev, Web Dev, Software Dev, Linux, Kali-Linux
 - 🎨 **Design:** Photoshop, Affinity Designer, Photoshop, Figma, WIX
+-->
 
 ##  Socials
 
