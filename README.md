@@ -1,4 +1,4 @@
-Currently working on [BioGenesis](https://www.biogenesistech.com/) → Accelerating Clinical Trials
+Currently working on [BioGenesis](https://www.mybiogenesis.com/) → Accelerating Clinical Trials
 
 <!-- Links to my social media accounts -->
 
