@@ -8,9 +8,6 @@ Currently working on [BioGenesis](https://www.mybiogenesis.com/) → Acceleratin
 <a href="https://twitter.com/_martinmichalko">
   <img align="left" alt="Martin's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.instagram.com/_martinmichalko/">
-  <img align="left" alt="Martin's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
 <br />
 
 
