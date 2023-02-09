@@ -1,4 +1,4 @@
-Currently working on [BioGenesis](https://www.mybiogenesis.com/) → Accelerating Clinical Trials
+Co-Founder [BioGenesis](https://www.mybiogenesis.com/)
 
 <!-- Links to my social media accounts -->
 
